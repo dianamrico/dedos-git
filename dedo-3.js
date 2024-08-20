@@ -3,7 +3,7 @@ const btnD3 = document.getElementById("dedo-3")
 
 btnD3.addEventListener("click",()=>{
     let hijo = document.createElement("li")
-    hijo.innerHTML=("este lo pelo")
+    hijo.innerHTML=("Este lo pelo")
     texto.appendChild(hijo)
 })
  
